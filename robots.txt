@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bushaazooz.tokamak9000.xyz/sitemap.xml
